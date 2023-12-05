@@ -27,4 +27,4 @@ Al cambiar la fuente o el tamaño de letra, se puede aplicar la configuración u
 #### Funcionalidades a Modificar o Agregar
 - Dar opcion de imprimir?
 - Poder modificar varias veces el tamaño y tipo de letra 
-![ImagenBloc](C:\Users\NISSI\Desktop\Federico\TrabajoPracticoLibre\ImagenBloc.png "ImagenBloc")
+
