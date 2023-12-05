@@ -1,8 +1,8 @@
 ### Bloc de Notas
-####Descripción
+#### Descripción
 - Este es un sencillo Bloc de Notas implementado en Python utilizando la biblioteca Tkinter. Permite realizar operaciones básicas como crear un nuevo archivo, abrir un archivo existente, guardar, eliminar, cambiar la fuente, el color del texto y el tamaño de la letra.
 
-####Funcionalidades
+#### Funcionalidades
 ##### Archivo
 - Nuevo: Borra todo el contenido del Bloc de Notas.
 - Abrir: Permite seleccionar un archivo de texto para cargar su contenido en el Bloc de Notas.
